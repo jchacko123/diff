@@ -7,8 +7,8 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="FCC Vacancy Diffusion", layout="wide")
 
-TOTAL_FRAMES = 20000
-BLOCK_SIZE = 100
+TOTAL_FRAMES = 500
+BLOCK_SIZE = 50
 
 # ============================================================
 # Utility functions
